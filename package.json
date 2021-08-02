@@ -1,5 +1,5 @@
 {
-  "name": "Greeting-test",
+  "name": "greeting-test",
   "version": "1.0.0",
   "description": "My Hello World node package",
   "main": "lib/index.js",
